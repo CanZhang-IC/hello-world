@@ -1,0 +1,13 @@
+5.18~5.22
+To do list
+1.read 'Compatible finite element method'/ yes
+2.put 'one turbine validation' into Overleaf/ no
+3.run continue optimisation method for many scenarios/ tested and work well now 
+4.testing discrete method with Stephan and Than/ fixed by Stephan, but do not try yet.
+
+5.25~5.29
+1.read 'Simon' thesis'
+2.put 'mesh, domain and validation' into Overleaf
+3.run neap, middle and spring tide for two place
+4.output result pictures
+
